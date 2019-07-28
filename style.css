@@ -6,3 +6,14 @@ h1 {
   background-color: green !important;
   color: white !important;
 }
+
+.contact {
+  margin: 20px;
+  background-color: black !important;
+  color: gold !important;
+}
+
+h2 {
+  color: crimson;
+  margin-left: 400px;
+}
